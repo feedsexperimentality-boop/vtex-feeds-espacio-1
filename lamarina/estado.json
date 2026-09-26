@@ -1,0 +1,276 @@
+{
+  "tienda": "La Marina",
+  "actualizado": "2026-09-26T17:32:17.699Z",
+  "frecuencia_horas": 24,
+  "duracion_segundos": 357,
+  "productos_vtex": 21026,
+  "productos": 21026,
+  "grupos_de_precio": 18,
+  "skus_encontrados": 39376,
+  "skus": 38630,
+  "agotados": 707,
+  "incompletos": 0,
+  "link_roto": 39,
+  "links_rotos": [
+    {
+      "producto": "3057179",
+      "nombre": "Juego de mesa Uno liars  jlh43",
+      "texto_link": "juego-de-mesa-uno-liars -jlh43"
+    },
+    {
+      "producto": "3057168",
+      "nombre": "Juego de mesa Uno all wild  hhl33",
+      "texto_link": "juego-de-mesa-uno-all-wild -hhl33"
+    },
+    {
+      "producto": "3024478",
+      "nombre": "Libro Four Season \"mis primeros colores y formas\"  81876",
+      "texto_link": "libro-four-season-mis-primeros-colores-y-formas -81876"
+    },
+    {
+      "producto": "2996833",
+      "nombre": "Reparador labial Isdin nutrabalm  ISD-HIDD0003",
+      "texto_link": "reparador-labial-isdin-nutrabalm -isd-hidd0003"
+    },
+    {
+      "producto": "2691551",
+      "nombre": "Jabón dermatologico Bioderma Atoderma  BIO-ATOD0001",
+      "texto_link": "jabon-dermatologico-bioderma-atoderma -bio-atod0001"
+    },
+    {
+      "producto": "3063894",
+      "nombre": "Muñeca Barbie fashionistas inclusiva  jjn58",
+      "texto_link": "muneca-barbie-fashionistas inclusiva--jjn58"
+    },
+    {
+      "producto": "3066787",
+      "nombre": "Vino blanco Casa Madero chardonnay 750 ml 1550",
+      "texto_link": "vino-blanco-casa-madero-chardonnay-750 ml-1550"
+    },
+    {
+      "producto": "3057105",
+      "nombre": "Muñeca Barbie astronauta  jkf77",
+      "texto_link": "muneca-barbie-astronauta -jkf77"
+    },
+    {
+      "producto": "3048172",
+      "nombre": "Pista de acrobacias Hot Wheels stunt tracks  multicolor jhk76",
+      "texto_link": "pista-de-acrobacias-hot-wheels-stunt-tracks -multicolor-jhk76"
+    },
+    {
+      "producto": "3001893",
+      "nombre": "Armable Lego camión de bomberos con escalera  60463",
+      "texto_link": "armable-lego-camion-de-bomberos-con-escalera -60463"
+    },
+    {
+      "producto": "3059649",
+      "nombre": "Cangurera Nike heritage 2.0 verde ib4376320",
+      "texto_link": "cangurera-nike-heritage 2-0-verde-ib4376320"
+    },
+    {
+      "producto": "3063211",
+      "nombre": "Armable Lego ford mustang hoonicorn v1 de ken block  77262",
+      "texto_link": "armable-lego-ford-mustang-hoonicorn-v1-de-ken-block -77262"
+    },
+    {
+      "producto": "3063152",
+      "nombre": "Armable Lego minecraft aventura de la primera noche  21593",
+      "texto_link": "armable-lego-minecraft-aventura-de-la-primera-noche -21593"
+    },
+    {
+      "producto": "3062156",
+      "nombre": "Crema corporal Mustela relipidizante 300 ml mus-atod0001",
+      "texto_link": "crema-corporal-mustela-relipidizante 300-ml-mus-atod0001"
+    },
+    {
+      "producto": "3038280",
+      "nombre": "Brillo labial Estée Lauder Glossy Pout Lip Oil  GBG5070000",
+      "texto_link": "brillo-labial-estee-lauder-glossy-pout-lip-oil -gbg5070000"
+    },
+    {
+      "producto": "3038279",
+      "nombre": "Brillo labial Estée Lauder Glossy Pout Lip Oil  GBG5040000",
+      "texto_link": "brillo-labial-estee-lauder-glossy-pout-lip-oil -gbg5040000"
+    },
+    {
+      "producto": "3038278",
+      "nombre": "Brillo labial Estée Lauder Glossy Pout Lip Oil  GBG5030000",
+      "texto_link": "brillo-labial-estee-lauder-glossy-pout-lip-oil -gbg5030000"
+    },
+    {
+      "producto": "3038277",
+      "nombre": "Brillo labial Estée Lauder Glossy Pout Lip Oil  GBG5020000",
+      "texto_link": "brillo-labial-estee-lauder-glossy-pout-lip-oil -gbg5020000"
+    },
+    {
+      "producto": "3038276",
+      "nombre": "Brillo labial Estée Lauder Glossy Pout Lip Oil  GBG5010000",
+      "texto_link": "brillo-labial-estee-lauder-glossy-pout-lip-oil -gbg5010000"
+    },
+    {
+      "producto": "3063206",
+      "nombre": "Armable Lego fortnite entrega de suministros  77080",
+      "texto_link": "armable-lego-fortnite-entrega-de-suministros -77080"
+    },
+    {
+      "producto": "3048171",
+      "nombre": "Pista de acrobacias Hot Wheels stunt tracks  multicolor jhk73",
+      "texto_link": "pista-de-acrobacias-hot-wheels-stunt-tracks -multicolor-jhk73"
+    },
+    {
+      "producto": "3038575",
+      "nombre": "Estuche Shakira Dance Midnight Muse  para dama EDT 65228803",
+      "texto_link": "estuche-shakira-dance-midnight-muse -para-dama-edt-65228803"
+    },
+    {
+      "producto": "3007988",
+      "nombre": "Sérum facial Isdin Hyaluronic Concentrate  ISD ANTD0022",
+      "texto_link": "serum-facial-isdin-hyaluronic-concentrate -isd-antd0022"
+    },
+    {
+      "producto": "2905625",
+      "nombre": "Serum ultra suero facial anti-imperfecciones La Roche Posay Effaclar  ROC-GRAD0035",
+      "texto_link": "serum-ultra-suero-facial-anti-imperfecciones-la-roche-posay-effaclar -roc-grad0035"
+    },
+    {
+      "producto": "2915629",
+      "nombre": "Crema B3 anti-manchas Vichy Liftactiv  VIC-ANTD0092",
+      "texto_link": "crema-b3-anti-manchas-vichy-liftactiv -vic-antd0092"
+    },
+    {
+      "producto": "2843392",
+      "nombre": "Tratamiento anti-arrugas Vichy Liftactive  VIC-ANTD0080",
+      "texto_link": "tratamiento-anti-arrugas-vichy-liftactive -vic-antd0080"
+    },
+    {
+      "producto": "3041552",
+      "nombre": "Estuche Jesus Del Pozo Halloween man para caballero 1146047",
+      "texto_link": "estuche-jesus-del-pozo-halloween man-para-caballero-1146047"
+    },
+    {
+      "producto": "3039091",
+      "nombre": "Perfume Donna Karan Be Delicious Latte Pistachio  para dama EDP 96264G",
+      "texto_link": "perfume-donna-karan-be-delicious-latte-pistachio -para-dama-edp-96264g"
+    },
+    {
+      "producto": "3038619",
+      "nombre": "Estuche Benetton Sisterland Yellow Peony  para dama EDT 65235053",
+      "texto_link": "estuche-benetton-sisterland-yellow-peony -para-dama-edt-65235053"
+    },
+    {
+      "producto": "3038618",
+      "nombre": "Estuche Benetton Red Rose para dama EDT 65235052",
+      "texto_link": "estuche-benetton- red-rose-para-dama-edt-65235052"
+    },
+    {
+      "producto": "2929026",
+      "nombre": "Zapato de fútbol Puma rosa para joven 107729 03",
+      "texto_link": "zapato de-futbol-para-joven-puma-rosa-107729-03"
+    },
+    {
+      "producto": "2915630",
+      "nombre": "Crema de noche Vichy neovadiol  VIC-ANTD0094",
+      "texto_link": "crema-de-noche-vichy-neovadiol -vic-antd0094"
+    },
+    {
+      "producto": "3045466",
+      "nombre": "Perfume Ralph Lauren  Polo Est. 67 Extreme para caballero EDP S6235101",
+      "texto_link": "perfume-ralph-lauren- polo-est-67-extreme-para-caballero-edp-s6235101"
+    },
+    {
+      "producto": "3007986",
+      "nombre": "Sérum reparador de noche Isdin Isdinceutics Melatonik  ISD ANTD0020",
+      "texto_link": "serum-reparador-de-noche-isdin-isdinceutics-melatonik -isd-antd0020"
+    },
+    {
+      "producto": "2944114",
+      "nombre": "Perfume Lacoste original  para caballero EDP 1LSL016A01",
+      "texto_link": "perfume-para-caballero-lacoste-original -edp-1lsl016a01"
+    },
+    {
+      "producto": "2890403",
+      "nombre": "Perfume Dolce & Gabbana devotion para dama EDP 1G90310001",
+      "texto_link": "perfume-para-dama-dolce-gabbana-devotion -edp-1g90310001"
+    },
+    {
+      "producto": "3043659",
+      "nombre": "Armable Lego technic coche mclaren mcl39 f1  42228",
+      "texto_link": "armable-lego-technic-coche-mclaren-mcl39-f1 -42228"
+    },
+    {
+      "producto": "3036088",
+      "nombre": "Perfume Jean Paul Gaultier La Belle Rosea  para dama EDP 65227993",
+      "texto_link": "perfume-jean-paul-gaultier-la-belle-rosea -para-dama-edp-65227993"
+    },
+    {
+      "producto": "3032626",
+      "nombre": "Armable Lego trofeo oficial de la copa mundial de la FIFA  43020",
+      "texto_link": "armable-lego-trofeo-oficial-de-la-copa-mundial-de-la-fifa -43020"
+    }
+  ],
+  "cambios": {
+    "nuevos": 324,
+    "modificados": 1953,
+    "eliminados": 426
+  },
+  "fuente_precio": {
+    "base": 38630
+  },
+  "feeds": [
+    "meta",
+    "google",
+    "tiktok",
+    "pinterest"
+  ],
+  "exclusiones": [],
+  "excluidos": {
+    "meta": 0,
+    "google": 0,
+    "tiktok": 0,
+    "pinterest": 0
+  },
+  "config": "E5tXrVbAvCt3",
+  "historial": [
+    {
+      "fecha": "2026-09-26T17:32:17.699Z",
+      "skus": 38630,
+      "skus_encontrados": 39376,
+      "agotados": 707,
+      "incompletos": 0,
+      "nuevos": 324,
+      "modificados": 1953,
+      "eliminados": 426
+    },
+    {
+      "fecha": "2026-09-25T17:31:38.532Z",
+      "skus": 38732,
+      "skus_encontrados": 39248,
+      "agotados": 516,
+      "incompletos": 0,
+      "nuevos": 1,
+      "modificados": 9,
+      "eliminados": 1
+    },
+    {
+      "fecha": "2026-09-25T16:53:30.543Z",
+      "skus": 38732,
+      "skus_encontrados": 39253,
+      "agotados": 521,
+      "incompletos": 0,
+      "nuevos": 4,
+      "modificados": 8,
+      "eliminados": 1
+    },
+    {
+      "fecha": "2026-09-25T16:11:32.808Z",
+      "skus": 38729,
+      "skus_encontrados": 39249,
+      "agotados": 520,
+      "incompletos": 0,
+      "primera_vez": true,
+      "nuevos": 38729,
+      "modificados": 0,
+      "eliminados": 0
+    }
+  ]
+}
