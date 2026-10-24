@@ -1,0 +1,590 @@
+{
+  "tienda": "La Marina",
+  "actualizado": "2026-10-24T01:05:03.964Z",
+  "frecuencia_horas": 24,
+  "duracion_segundos": 234,
+  "productos_vtex": 21267,
+  "productos": 21267,
+  "grupos_de_precio": 19,
+  "skus_encontrados": 39846,
+  "skus": 39289,
+  "agotados": 506,
+  "incompletos": 0,
+  "link_roto": 51,
+  "links_rotos": [
+    {
+      "producto": "3066172",
+      "nombre": "Aceite hidratante para labios Moira glow getter",
+      "texto_link": "aceite-hidratante-para-labios-moira-glow-getter -glo015"
+    },
+    {
+      "producto": "3057179",
+      "nombre": "Juego de mesa Uno liars",
+      "texto_link": "juego-de-mesa-uno-liars -jlh43"
+    },
+    {
+      "producto": "3057168",
+      "nombre": "Juego de mesa Uno all wild",
+      "texto_link": "juego-de-mesa-uno-all-wild -hhl33"
+    },
+    {
+      "producto": "3024478",
+      "nombre": "Libro Four Season \"mis primeros colores y formas\"",
+      "texto_link": "libro-four-season-mis-primeros-colores-y-formas -81876"
+    },
+    {
+      "producto": "2996833",
+      "nombre": "Reparador labial Isdin nutrabalm",
+      "texto_link": "reparador-labial-isdin-nutrabalm -isd-hidd0003"
+    },
+    {
+      "producto": "2691551",
+      "nombre": "Jabón dermatologico Bioderma Atoderma",
+      "texto_link": "jabon-dermatologico-bioderma-atoderma -bio-atod0001"
+    },
+    {
+      "producto": "3058601",
+      "nombre": "Sérum ultrahidratante Moira hyaluronic 10 complex",
+      "texto_link": "serum-ultrahidratante-moira-hyaluronic-10-complex -hys001"
+    },
+    {
+      "producto": "3063894",
+      "nombre": "Muñeca Barbie fashionistas inclusiva",
+      "texto_link": "muneca-barbie-fashionistas inclusiva--jjn58"
+    },
+    {
+      "producto": "3071278",
+      "nombre": "Figura de acción Wwe penta zero miedo",
+      "texto_link": "figura-de-accion-wwe-penta-zero-miedo -jhj02"
+    },
+    {
+      "producto": "3070840",
+      "nombre": "Tina de baño Prinsel atlantis rosa 7297",
+      "texto_link": "tina-de-bano-prinsel-atlantis rosa-7297"
+    },
+    {
+      "producto": "3070839",
+      "nombre": "Tina de baño Prinsel atlantis azul 7292",
+      "texto_link": "tina-de-bano-prinsel-atlantis azul-7292"
+    },
+    {
+      "producto": "3057105",
+      "nombre": "Muñeca Barbie astronauta",
+      "texto_link": "muneca-barbie-astronauta -jkf77"
+    },
+    {
+      "producto": "3066787",
+      "nombre": "Vino blanco Casa Madero chardonnay 750 ml",
+      "texto_link": "vino-blanco-casa-madero-chardonnay-750 ml-1550"
+    },
+    {
+      "producto": "3048172",
+      "nombre": "Pista de acrobacias Hot Wheels stunt tracks  multicolor",
+      "texto_link": "pista-de-acrobacias-hot-wheels-stunt-tracks -multicolor-jhk76"
+    },
+    {
+      "producto": "3001893",
+      "nombre": "Armable Lego camión de bomberos con escalera",
+      "texto_link": "armable-lego-camion-de-bomberos-con-escalera -60463"
+    },
+    {
+      "producto": "3001855",
+      "nombre": "Armable Lego spidey spin y electro: duelo de vehículos dinosaurio  11198",
+      "texto_link": "armable-lego-spidey-spin-y-electro--duelo-de-vehiculos-dinosaurio -11198"
+    },
+    {
+      "producto": "3063211",
+      "nombre": "Armable Lego ford mustang hoonicorn v1 de ken block",
+      "texto_link": "armable-lego-ford-mustang-hoonicorn-v1-de-ken-block -77262"
+    },
+    {
+      "producto": "3059649",
+      "nombre": "Cangurera Nike heritage 2.0 verde",
+      "texto_link": "cangurera-nike-heritage 2-0-verde-ib4376320"
+    },
+    {
+      "producto": "3076140",
+      "nombre": "Máscara Jurassic World giganotosaurus",
+      "texto_link": "mascara-jurassic-world-giganotosaurus -jmv90"
+    },
+    {
+      "producto": "3076136",
+      "nombre": "Set de figuras Dc Comics batcopter vs man-bat",
+      "texto_link": "set-de-figuras-dc-comics-batcopter-vs-man-bat -jml97"
+    },
+    {
+      "producto": "3063152",
+      "nombre": "Armable Lego minecraft aventura de la primera noche",
+      "texto_link": "armable-lego-minecraft-aventura-de-la-primera-noche -21593"
+    },
+    {
+      "producto": "3062156",
+      "nombre": "Crema corporal Mustela relipidizante 300 ml",
+      "texto_link": "crema-corporal-mustela-relipidizante 300-ml-mus-atod0001"
+    },
+    {
+      "producto": "3038280",
+      "nombre": "Brillo labial Estée Lauder Glossy Pout Lip Oil",
+      "texto_link": "brillo-labial-estee-lauder-glossy-pout-lip-oil -gbg5070000"
+    },
+    {
+      "producto": "3038279",
+      "nombre": "Brillo labial Estée Lauder Glossy Pout Lip Oil",
+      "texto_link": "brillo-labial-estee-lauder-glossy-pout-lip-oil -gbg5040000"
+    },
+    {
+      "producto": "3038278",
+      "nombre": "Brillo labial Estée Lauder Glossy Pout Lip Oil",
+      "texto_link": "brillo-labial-estee-lauder-glossy-pout-lip-oil -gbg5030000"
+    },
+    {
+      "producto": "3038277",
+      "nombre": "Brillo labial Estée Lauder Glossy Pout Lip Oil",
+      "texto_link": "brillo-labial-estee-lauder-glossy-pout-lip-oil -gbg5020000"
+    },
+    {
+      "producto": "3038276",
+      "nombre": "Brillo labial Estée Lauder Glossy Pout Lip Oil",
+      "texto_link": "brillo-labial-estee-lauder-glossy-pout-lip-oil -gbg5010000"
+    },
+    {
+      "producto": "3063206",
+      "nombre": "Armable Lego fortnite entrega de suministros",
+      "texto_link": "armable-lego-fortnite-entrega-de-suministros -77080"
+    },
+    {
+      "producto": "3048171",
+      "nombre": "Pista de acrobacias Hot Wheels stunt tracks  multicolor",
+      "texto_link": "pista-de-acrobacias-hot-wheels-stunt-tracks -multicolor-jhk73"
+    },
+    {
+      "producto": "3038575",
+      "nombre": "Estuche Shakira Dance Midnight Muse  para dama EDT",
+      "texto_link": "estuche-shakira-dance-midnight-muse -para-dama-edt-65228803"
+    },
+    {
+      "producto": "3007988",
+      "nombre": "Sérum facial Isdin Hyaluronic Concentrate",
+      "texto_link": "serum-facial-isdin-hyaluronic-concentrate -isd-antd0022"
+    },
+    {
+      "producto": "2905625",
+      "nombre": "Serum ultra suero facial anti-imperfecciones La Roche Posay Effaclar",
+      "texto_link": "serum-ultra-suero-facial-anti-imperfecciones-la-roche-posay-effaclar -roc-grad0035"
+    },
+    {
+      "producto": "2915629",
+      "nombre": "Crema B3 anti-manchas Vichy Liftactiv",
+      "texto_link": "crema-b3-anti-manchas-vichy-liftactiv -vic-antd0092"
+    },
+    {
+      "producto": "2752569",
+      "nombre": "Cepillo eléctrico Gama Italy keration 3d",
+      "texto_link": "cepillo-electrico-gama-italy-keration-3d h-mod-styl-ker"
+    },
+    {
+      "producto": "3041552",
+      "nombre": "Estuche Jesus Del Pozo Halloween man para caballero",
+      "texto_link": "estuche-jesus-del-pozo-halloween man-para-caballero-1146047"
+    },
+    {
+      "producto": "3039091",
+      "nombre": "Perfume Donna Karan Be Delicious Latte Pistachio  para dama EDP",
+      "texto_link": "perfume-donna-karan-be-delicious-latte-pistachio -para-dama-edp-96264g"
+    },
+    {
+      "producto": "3038619",
+      "nombre": "Estuche Benetton Sisterland Yellow Peony  para dama EDT",
+      "texto_link": "estuche-benetton-sisterland-yellow-peony -para-dama-edt-65235053"
+    },
+    {
+      "producto": "3038618",
+      "nombre": "Estuche Benetton Red Rose para dama EDT",
+      "texto_link": "estuche-benetton- red-rose-para-dama-edt-65235052"
+    },
+    {
+      "producto": "2929026",
+      "nombre": "Zapato de fútbol Puma rosa para joven",
+      "texto_link": "zapato de-futbol-para-joven-puma-rosa-107729-03"
+    },
+    {
+      "producto": "2915630",
+      "nombre": "Crema de noche Vichy neovadiol",
+      "texto_link": "crema-de-noche-vichy-neovadiol -vic-antd0094"
+    },
+    {
+      "producto": "3069057",
+      "nombre": "Estuche Giorgio Armani  di gio discovery para caballero",
+      "texto_link": "estuche-giorgio-armani- di-gio-discovery-para-caballero-tmx06839"
+    },
+    {
+      "producto": "3007986",
+      "nombre": "Sérum reparador de noche Isdin Isdinceutics Melatonik",
+      "texto_link": "serum-reparador-de-noche-isdin-isdinceutics-melatonik -isd-antd0020"
+    },
+    {
+      "producto": "3071829",
+      "nombre": "Perfume Paco Rabanne olympéa  para dama EDP",
+      "texto_link": "perfume-paco-rabanne-olympea -para-dama-edp"
+    },
+    {
+      "producto": "3045466",
+      "nombre": "Perfume Ralph Lauren  Polo Est. 67 Extreme para caballero EDP",
+      "texto_link": "perfume-ralph-lauren- polo-est-67-extreme-para-caballero-edp-s6235101"
+    },
+    {
+      "producto": "3065402",
+      "nombre": "Perfume Carolina Herrera bad boy cobalt absolute  para caballero EDP",
+      "texto_link": "perfume-carolina-herrera-bad-boy-cobalt-absolute -para-caballero-edp-65227863"
+    },
+    {
+      "producto": "2890403",
+      "nombre": "Perfume Dolce & Gabbana devotion para dama EDP",
+      "texto_link": "perfume-para-dama-dolce-gabbana-devotion -edp-1g90310001"
+    },
+    {
+      "producto": "3043659",
+      "nombre": "Armable Lego technic coche mclaren mcl39 f1",
+      "texto_link": "armable-lego-technic-coche-mclaren-mcl39-f1 -42228"
+    },
+    {
+      "producto": "3036088",
+      "nombre": "Perfume Jean Paul Gaultier La Belle Rosea  para dama EDP",
+      "texto_link": "perfume-jean-paul-gaultier-la-belle-rosea -para-dama-edp-65227993"
+    },
+    {
+      "producto": "3032626",
+      "nombre": "Armable Lego trofeo oficial de la copa mundial de la FIFA",
+      "texto_link": "armable-lego-trofeo-oficial-de-la-copa-mundial-de-la-fifa -43020"
+    },
+    {
+      "producto": "2944114",
+      "nombre": "Perfume Lacoste original  para caballero EDP",
+      "texto_link": "perfume-para-caballero-lacoste-original -edp-1lsl016a01"
+    }
+  ],
+  "cambios": {
+    "nuevos": 742,
+    "modificados": 42,
+    "eliminados": 1506
+  },
+  "fuente_precio": {
+    "base": 39289
+  },
+  "feeds": [
+    "meta",
+    "google",
+    "tiktok",
+    "pinterest"
+  ],
+  "exclusiones": [],
+  "excluidos": {
+    "meta": 0,
+    "google": 0,
+    "tiktok": 0,
+    "pinterest": 0
+  },
+  "config": "E5tXrVbAvCt3",
+  "historial": [
+    {
+      "fecha": "2026-10-24T01:05:03.964Z",
+      "skus": 39289,
+      "skus_encontrados": 39846,
+      "agotados": 506,
+      "incompletos": 0,
+      "nuevos": 742,
+      "modificados": 42,
+      "eliminados": 1506
+    },
+    {
+      "fecha": "2026-10-23T01:02:56.368Z",
+      "skus": 40053,
+      "skus_encontrados": 40718,
+      "agotados": 614,
+      "incompletos": 0,
+      "nuevos": 397,
+      "modificados": 37,
+      "eliminados": 7
+    },
+    {
+      "fecha": "2026-10-22T00:59:33.160Z",
+      "skus": 39663,
+      "skus_encontrados": 40223,
+      "agotados": 514,
+      "incompletos": 0,
+      "nuevos": 475,
+      "modificados": 56,
+      "eliminados": 587
+    },
+    {
+      "fecha": "2026-10-21T00:58:15.571Z",
+      "skus": 39775,
+      "skus_encontrados": 40194,
+      "agotados": 377,
+      "incompletos": 0,
+      "nuevos": 875,
+      "modificados": 65,
+      "eliminados": 15
+    },
+    {
+      "fecha": "2026-10-20T00:58:36.425Z",
+      "skus": 38915,
+      "skus_encontrados": 39348,
+      "agotados": 391,
+      "incompletos": 0,
+      "nuevos": 202,
+      "modificados": 1529,
+      "eliminados": 1872
+    },
+    {
+      "fecha": "2026-10-19T00:57:35.210Z",
+      "skus": 40585,
+      "skus_encontrados": 41193,
+      "agotados": 563,
+      "incompletos": 0,
+      "nuevos": 95,
+      "modificados": 252,
+      "eliminados": 183
+    },
+    {
+      "fecha": "2026-10-18T00:56:21.884Z",
+      "skus": 40673,
+      "skus_encontrados": 41192,
+      "agotados": 474,
+      "incompletos": 0,
+      "nuevos": 517,
+      "modificados": 174,
+      "eliminados": 22
+    },
+    {
+      "fecha": "2026-10-17T00:56:08.726Z",
+      "skus": 40178,
+      "skus_encontrados": 40623,
+      "agotados": 402,
+      "incompletos": 0,
+      "nuevos": 1144,
+      "modificados": 439,
+      "eliminados": 620
+    },
+    {
+      "fecha": "2026-10-16T00:55:38.762Z",
+      "skus": 39654,
+      "skus_encontrados": 40191,
+      "agotados": 495,
+      "incompletos": 0,
+      "nuevos": 530,
+      "modificados": 328,
+      "eliminados": 121
+    },
+    {
+      "fecha": "2026-10-14T23:42:25.017Z",
+      "skus": 39245,
+      "skus_encontrados": 39725,
+      "agotados": 438,
+      "incompletos": 0,
+      "nuevos": 524,
+      "modificados": 66,
+      "eliminados": 1384
+    },
+    {
+      "fecha": "2026-10-13T23:44:59.476Z",
+      "skus": 40105,
+      "skus_encontrados": 40593,
+      "agotados": 445,
+      "incompletos": 0,
+      "nuevos": 1255,
+      "modificados": 956,
+      "eliminados": 310
+    },
+    {
+      "fecha": "2026-10-12T23:36:36.782Z",
+      "skus": 39160,
+      "skus_encontrados": 39817,
+      "agotados": 615,
+      "incompletos": 0,
+      "nuevos": 30,
+      "modificados": 127,
+      "eliminados": 110
+    },
+    {
+      "fecha": "2026-10-11T23:33:23.749Z",
+      "skus": 39240,
+      "skus_encontrados": 39834,
+      "agotados": 552,
+      "incompletos": 0,
+      "nuevos": 4,
+      "modificados": 12,
+      "eliminados": 13
+    },
+    {
+      "fecha": "2026-10-10T23:30:59.446Z",
+      "skus": 39249,
+      "skus_encontrados": 39836,
+      "agotados": 545,
+      "incompletos": 0,
+      "nuevos": 335,
+      "modificados": 64,
+      "eliminados": 191
+    },
+    {
+      "fecha": "2026-10-09T22:34:21.012Z",
+      "skus": 39105,
+      "skus_encontrados": 39624,
+      "agotados": 477,
+      "incompletos": 0,
+      "nuevos": 435,
+      "modificados": 232,
+      "eliminados": 412
+    },
+    {
+      "fecha": "2026-10-08T22:33:23.946Z",
+      "skus": 39082,
+      "skus_encontrados": 39549,
+      "agotados": 427,
+      "incompletos": 0,
+      "nuevos": 421,
+      "modificados": 1470,
+      "eliminados": 331
+    },
+    {
+      "fecha": "2026-10-07T21:34:30.463Z",
+      "skus": 38992,
+      "skus_encontrados": 39782,
+      "agotados": 749,
+      "incompletos": 0,
+      "nuevos": 18,
+      "modificados": 2877,
+      "eliminados": 117
+    },
+    {
+      "fecha": "2026-10-06T21:31:43.582Z",
+      "skus": 39091,
+      "skus_encontrados": 39798,
+      "agotados": 667,
+      "incompletos": 0,
+      "nuevos": 660,
+      "modificados": 28898,
+      "eliminados": 75
+    },
+    {
+      "fecha": "2026-10-05T21:37:43.144Z",
+      "skus": 38506,
+      "skus_encontrados": 39165,
+      "agotados": 619,
+      "incompletos": 0,
+      "nuevos": 101,
+      "modificados": 571,
+      "eliminados": 101
+    },
+    {
+      "fecha": "2026-10-04T20:30:22.140Z",
+      "skus": 38506,
+      "skus_encontrados": 39073,
+      "agotados": 527,
+      "incompletos": 0,
+      "nuevos": 7,
+      "modificados": 15,
+      "eliminados": 84
+    },
+    {
+      "fecha": "2026-10-03T19:47:28.858Z",
+      "skus": 38583,
+      "skus_encontrados": 39070,
+      "agotados": 447,
+      "incompletos": 0,
+      "nuevos": 229,
+      "modificados": 85,
+      "eliminados": 1419
+    },
+    {
+      "fecha": "2026-10-02T18:37:37.577Z",
+      "skus": 39773,
+      "skus_encontrados": 40476,
+      "agotados": 660,
+      "incompletos": 0,
+      "nuevos": 1194,
+      "modificados": 290,
+      "eliminados": 218
+    },
+    {
+      "fecha": "2026-10-01T18:38:23.107Z",
+      "skus": 38797,
+      "skus_encontrados": 39712,
+      "agotados": 873,
+      "incompletos": 0,
+      "nuevos": 846,
+      "modificados": 428,
+      "eliminados": 231
+    },
+    {
+      "fecha": "2026-09-30T18:35:22.843Z",
+      "skus": 38182,
+      "skus_encontrados": 38992,
+      "agotados": 766,
+      "incompletos": 0,
+      "nuevos": 245,
+      "modificados": 308,
+      "eliminados": 119
+    },
+    {
+      "fecha": "2026-09-29T18:36:39.153Z",
+      "skus": 38056,
+      "skus_encontrados": 38778,
+      "agotados": 678,
+      "incompletos": 0,
+      "nuevos": 36,
+      "modificados": 658,
+      "eliminados": 437
+    },
+    {
+      "fecha": "2026-09-28T18:36:52.473Z",
+      "skus": 38457,
+      "skus_encontrados": 38893,
+      "agotados": 397,
+      "incompletos": 0,
+      "nuevos": 4,
+      "modificados": 8468,
+      "eliminados": 16
+    },
+    {
+      "fecha": "2026-09-27T17:29:58.171Z",
+      "skus": 38469,
+      "skus_encontrados": 39052,
+      "agotados": 544,
+      "incompletos": 0,
+      "nuevos": 183,
+      "modificados": 9,
+      "eliminados": 344
+    },
+    {
+      "fecha": "2026-09-26T17:32:17.699Z",
+      "skus": 38630,
+      "skus_encontrados": 39376,
+      "agotados": 707,
+      "incompletos": 0,
+      "nuevos": 324,
+      "modificados": 1953,
+      "eliminados": 426
+    },
+    {
+      "fecha": "2026-09-25T17:31:38.532Z",
+      "skus": 38732,
+      "skus_encontrados": 39248,
+      "agotados": 516,
+      "incompletos": 0,
+      "nuevos": 1,
+      "modificados": 9,
+      "eliminados": 1
+    },
+    {
+      "fecha": "2026-09-25T16:53:30.543Z",
+      "skus": 38732,
+      "skus_encontrados": 39253,
+      "agotados": 521,
+      "incompletos": 0,
+      "nuevos": 4,
+      "modificados": 8,
+      "eliminados": 1
+    }
+  ]
+}
