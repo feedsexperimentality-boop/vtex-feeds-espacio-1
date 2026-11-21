@@ -1,0 +1,10 @@
+{
+  "espacio": 1,
+  "bytes": 165728415,
+  "limite": 1073741824,
+  "porcentaje": 15.4,
+  "archivo_mayor": "lamarina/google.xml",
+  "archivo_mayor_bytes": 54049295,
+  "limite_archivo": 104857600,
+  "alerta": false
+}
